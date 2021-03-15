@@ -10,8 +10,6 @@ function App() {
             {/*<SearchBar/>*/}
             {/*<ProductsList/>*/}
             <EasyButton value={true}/>
-            <EasyButton value={false}/>
-
         </div>
     );
 }
